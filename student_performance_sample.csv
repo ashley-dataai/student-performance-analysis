@@ -1,0 +1,7 @@
+gender,math_score,reading_score,writing_score,parental_education,study_time
+female,78,80,76,associate's degree,2
+male,85,83,84,bachelor's degree,4
+female,70,72,68,some college,1
+male,82,79,80,high school,3
+female,75,77,74,associate's degree,2
+male,90,88,91,master's degree,5
